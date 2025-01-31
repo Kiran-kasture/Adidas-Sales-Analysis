@@ -23,7 +23,8 @@ Analyzed sales trends over time (monthly, quarterly) to determine the best month
 Determined the peak and slow sales months to understand seasonality and optimize marketing campaigns.
 # 8. Sales Trends Over Time
 Analyzed sales data over time to identify sales growth or decline and key trends for different product categories.
-Power BI Dashboard
+
+# Power BI Dashboard
 A Power BI Dashboard has been created to visualize key metrics and trends derived from the sales data. The dashboard includes the following features:
 
 Total Sales by Product Category
